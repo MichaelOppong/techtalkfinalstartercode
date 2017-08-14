@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    color:gold;
+    background-color:black;
+
+}
+button{
+border-radius:5px;
+color:gold;
+background:black;
+}
+img{
+    width:300px;
+    display:inline-block;
+}
